@@ -36,6 +36,8 @@ MANIFEST
 # environment
 .venv/
 venv
+.venv1/
+venv1
 
 
 # Installer logs
